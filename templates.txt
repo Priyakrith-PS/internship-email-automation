@@ -1,0 +1,21 @@
+SUBJECT: Internship Opportunity Inquiry – {company}
+
+Hi {name},
+
+My name is Your Name, and I am currently a Computer Science student with strong interest in software development.
+
+I came across {company} and was impressed by your innovative work in the industry.
+
+I would love the opportunity to contribute as an intern and apply my skills in:
+- Python
+- Backend Development
+- Data Analysis
+
+I have attached my resume for your consideration.
+
+Thank you for your time and consideration.
+
+Best regards,
+Your Name
+LinkedIn: https://linkedin.com/in/yourprofile
+Phone: +1234567890
